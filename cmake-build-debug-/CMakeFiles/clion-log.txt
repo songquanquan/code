@@ -1,0 +1,9 @@
+"D:\CLion 2022.2.4\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/CLion 2022.2.4/bin/ninja/win/ninja.exe" -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage -G Ninja -S C:\Users\29789\Desktop\code -B C:\Users\29789\Desktop\code\cmake-build-debug-
+    -- src/1004.cpp will be compiled to bin/1004
+    -- src/1031.cpp will be compiled to bin/1031
+    -- src/1095.cpp will be compiled to bin/1095
+    -- src/1096.cpp will be compiled to bin/1096
+    -- src/1115.cpp will be compiled to bin/1115
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/29789/Desktop/code/cmake-build-debug-

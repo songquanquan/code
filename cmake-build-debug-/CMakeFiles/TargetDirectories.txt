@@ -1,0 +1,8 @@
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/code.dir
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/1004.dir
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/1031.dir
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/1095.dir
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/1096.dir
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/1115.dir
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/edit_cache.dir
+C:/Users/29789/Desktop/code/cmake-build-debug-/CMakeFiles/rebuild_cache.dir
