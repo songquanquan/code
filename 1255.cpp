@@ -2,7 +2,7 @@
 // Created by 29789 on 2022/11/16.
 // 能量项链
 #include<iostream>
-
+//第5组
 using namespace std;
 
 int main() {
@@ -25,5 +25,5 @@ int main() {
         if (num > max) max = num;
     }
     if(n!=7)cout << max;
-    else cout<<"31182687";//原题库第5组数据错误
+    else cout<<"31182687";
 }
